@@ -2,7 +2,7 @@ p{
     margin-top: 0;
     margin-bottom: 0;
 }
-
+/* This style below will be inherited */
 body{
     font-family: roboto,Arial;
     margin: 0;
